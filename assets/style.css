@@ -1,0 +1,16 @@
+#mainblock {
+    position:absolute;
+    width: 100%;
+}
+svg {
+    width:10%;
+    fill:#00bc00;
+    fill-opacity:1;
+    stroke:#b0009a;
+    stroke-width:1.26499999;
+    stroke-linecap:butt;
+    stroke-linejoin:miter;
+    stroke-miterlimit:4;
+    stroke-dasharray:none;
+    stroke-opacity:1
+}
